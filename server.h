@@ -1,0 +1,1 @@
+void void compare(char a[],char b[])
